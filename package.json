@@ -1,0 +1,32 @@
+{
+  "name": "@whym/clients",
+  "version": "1.0.0",
+  "description": "Here be clients! Clients to all of the Whym APIs!",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node --es_staging test/demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.sazze.com:wh/clients"
+  },
+  "keywords": [
+    "ReST",
+    "Services",
+    "Clients",
+    "APIs"
+  ],
+  "author": "Adam Jaso",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "lodash": "^3.2.0",
+    "moment": "^2.9.0",
+    "@whym/dollar": "1.0.1",
+    "request": "^2.53.0",
+    "require-all": "^1.0.0"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org"
+  }
+}
