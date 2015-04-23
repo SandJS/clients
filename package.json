@@ -22,7 +22,8 @@
     "async": "^0.9.0",
     "lodash": "^3.2.0",
     "moment": "^2.9.0",
-    "@whym/dollar": "1.0.1",
+    "@whym/dollar": "2.0.0",
+    "@whym/utils": "1.0.0",
     "request": "^2.53.0",
     "require-all": "^1.0.0"
   },
