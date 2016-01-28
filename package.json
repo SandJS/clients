@@ -1,6 +1,6 @@
 {
   "name": "@whym/clients",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Here be clients! Clients to all of the Whym APIs!",
   "main": "lib/index.js",
   "scripts": {
