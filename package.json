@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.sazze.com:wh/clients"
+    "url": "git@gitlab.com:whym/clients"
   },
   "keywords": [
     "ReST",
