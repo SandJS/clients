@@ -1,34 +1,24 @@
 {
-  "name": "@whym/clients",
-  "version": "2.1.7",
-  "description": "Here be clients! Clients to all of the Whym APIs!",
+  "name": "sand-clients",
+  "version": "1.0.0",
+  "description": "API Clients",
   "main": "lib/index.js",
-  "scripts": {
-    "test": "node --es_staging test/demo.js"
-  },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.com:whym/clients"
+    "url": "git@gitlab.com:sazze/sand-clients"
   },
   "keywords": [
-    "ReST",
+    "Rest",
     "Services",
     "Clients",
     "APIs"
   ],
-  "author": "Adam Jaso",
+  "author": "Kevin Smithson",
   "license": "ISC",
   "dependencies": {
-    "@whym/dollar": "2.0.0",
-    "@whym/utils": "1.0.0",
-    "async": "^1.5.2",
     "lodash": "^3.2.0",
-    "moment": "^2.9.0",
     "request": "^2.53.0",
-    "require-all": "^1.0.0",
-    "sand-grain": "^1.1.1"
+    "sand-grain": "^1.2.1"
   },
-  "publishConfig": {
-    "registry": "http://registry.npmjs.org"
-  }
+  "private": true
 }
