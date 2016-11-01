@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git@gitlab.com:sazze/sand-clients"
+    "url": "git@github.com:SandJS/clients.git"
   },
   "keywords": [
     "Rest",
@@ -19,6 +19,5 @@
     "lodash": "^3.2.0",
     "request": "^2.53.0",
     "sand-grain": "^1.2.1"
-  },
-  "private": true
+  }
 }
